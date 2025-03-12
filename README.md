@@ -32,7 +32,7 @@ To get started, simply download the latest version of **Delta Executor** below:
 1. Open **Delta Executor**.
 2. Attach it to the ROBLOX client by clicking the **Attach** button.
 3. Paste your desired script into the text box and press **Execute**.
-4. Enjoy the power of scripting in ROBLOX! 💻
+4. Enjoy the power of scripting in ROBLOX!
 
 ---
 
