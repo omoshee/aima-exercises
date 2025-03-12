@@ -1,4 +1,4 @@
-# 🌊 Wave Executor 🌊
+# 🌊 Delta Executor 🌊
 **A powerful ROBLOX executor for your scripting needs!** 🚀
 
 ![Delta Executor Preview](/assets/Delta.gif) <!-- Add your image link here -->
@@ -15,21 +15,21 @@
 ---
 
 ## 📥 Download
-To get started, simply download the latest version of **Wave Executor** below:
+To get started, simply download the latest version of **Delta Executor** below:
 
-- [Download Wave Executor](https://your-download-link-here.com)
+- [Download Delta Executor](https://your-download-link-here.com)
 
 ---
 
 ## ⚙️ Installation
-1. Download the **Wave Executor** from the link above.
+1. Download the **Delta Executor** from the link above.
 2. Extract the ZIP file to any directory of your choice.
 3. Run the executable and start injecting scripts into ROBLOX!
 
 ---
 
 ## 🛠️ How to Use:
-1. Open **Wave Executor**.
+1. Open **Delta Executor**.
 2. Attach it to the ROBLOX client by clicking the **Attach** button.
 3. Paste your desired script into the text box and press **Execute**.
 4. Enjoy the power of scripting in ROBLOX! 💻
@@ -37,7 +37,7 @@ To get started, simply download the latest version of **Wave Executor** below:
 ---
 
 ## 🚨 Warning:
-- Use at your own risk. **Wave Executor** is not responsible for any bans or issues that occur while using the software.
+- Use at your own risk. **Delta Executor** is not responsible for any bans or issues that occur while using the software.
 - Please ensure you are using it in compliance with ROBLOX's Terms of Service.
 
 ---
@@ -59,4 +59,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 💡 Inspiration:
-Wave Executor was inspired by a desire to create a lightweight, efficient, and fun executor for the ROBLOX community. Thanks for supporting us! 🌊
+Delta Executor was inspired by a desire to create a lightweight, efficient, and fun executor for the ROBLOX community. Thanks for supporting us! 🌊
